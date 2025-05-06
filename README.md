@@ -1,1 +1,1 @@
-# C Tutorial
+#This repository contains a collection of my C programming projects — created to deepen my understanding of computer science fundamentals, strengthen my coding skills, and grow a meaningful developer portfolio.
