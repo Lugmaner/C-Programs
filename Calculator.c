@@ -10,7 +10,7 @@ int main()
     char operator;
     double* oldResults = malloc(MaxStored * sizeof(double));
     double num1, num2;
-    bool isFull = false;
+    bool isFull = false; //Hallo
 
     for (int i = 0; i < MaxStored; i++)
     {
